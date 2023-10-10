@@ -1,0 +1,266 @@
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.22622 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/xtensa-lx106-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/3.13.4/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/xtensa-lx106-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+xtensa-lx106-elf-gcc.exe (crosstool-NG esp-2020r3-49-gd5524c1) 8.4.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_29a70"
+[1/2] Building C object CMakeFiles/cmTC_29a70.dir/testCCompiler.c.obj
+[2/2] Linking C executable cmTC_29a70
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_417fd"
+[1/2] Building C object CMakeFiles/cmTC_417fd.dir/CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_417fd
+Using built-in specs.
+COLLECT_GCC=C:\Users\36348\.espressif\tools\xtensa-lx106-elf\esp-2020r3-49-gd5524c1-8.4.0\xtensa-lx106-elf\bin\xtensa-lx106-elf-gcc.exe
+COLLECT_LTO_WRAPPER=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe
+Target: xtensa-lx106-elf
+Configured with: /builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_w64-mingw32 --target=xtensa-lx106-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf --with-headers=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf/include --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG esp-2020r3-49-gd5524c1' --disable-__cxa_atexit --enable-cxx-flags=-ffunction-sections --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-nls --enable-multiarch --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-libstdcxx-time=yes
+Thread model: posix
+gcc version 8.4.0 (crosstool-NG esp-2020r3-49-gd5524c1) 
+COMPILER_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/
+LIBRARY_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_417fd'
+ c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe -plugin c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll -plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccz5hJDh.res -o cmTC_417fd -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib --gc-sections CMakeFiles/cmTC_417fd.dir/CMakeCCompilerABI.c.obj
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_417fd'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(xtensa-lx106-elf-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_417fd"]
+  ignore line: [[1/2] Building C object CMakeFiles/cmTC_417fd.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [[2/2] Linking C executable cmTC_417fd]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\36348\.espressif\tools\xtensa-lx106-elf\esp-2020r3-49-gd5524c1-8.4.0\xtensa-lx106-elf\bin\xtensa-lx106-elf-gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe]
+  ignore line: [Target: xtensa-lx106-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_w64-mingw32 --target=xtensa-lx106-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf --with-headers=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf/include --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG esp-2020r3-49-gd5524c1' --disable-__cxa_atexit --enable-cxx-flags=-ffunction-sections --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-nls --enable-multiarch --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-libstdcxx-time=yes]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.4.0 (crosstool-NG esp-2020r3-49-gd5524c1) ]
+  ignore line: [COMPILER_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_417fd']
+  link line: [ c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe -plugin c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll -plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccz5hJDh.res -o cmTC_417fd -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib --gc-sections CMakeFiles/cmTC_417fd.dir/CMakeCCompilerABI.c.obj]
+    arg [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccz5hJDh.res] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_417fd] ==> ignore
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0]
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc]
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib]
+    arg [--gc-sections] ==> ignore
+    arg [CMakeFiles/cmTC_417fd.dir/CMakeCCompilerABI.c.obj] ==> ignore
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/8.4.0]
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc]
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/xtensa-lx106-elf/lib]
+  implicit libs: []
+  implicit dirs: [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/8.4.0;C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc;C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/xtensa-lx106-elf/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_e8e2d"
+[1/2] Building C object CMakeFiles/cmTC_e8e2d.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_e8e2d
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_0a87a"
+[1/2] Building C object CMakeFiles/cmTC_0a87a.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_0a87a
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_91423"
+[1/2] Building C object CMakeFiles/cmTC_91423.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_91423
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_f3bfc"
+[1/2] Building CXX object CMakeFiles/cmTC_f3bfc.dir/testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_f3bfc
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_fb0f3"
+[1/2] Building CXX object CMakeFiles/cmTC_fb0f3.dir/CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_fb0f3
+Using built-in specs.
+COLLECT_GCC=C:\Users\36348\.espressif\tools\xtensa-lx106-elf\esp-2020r3-49-gd5524c1-8.4.0\xtensa-lx106-elf\bin\xtensa-lx106-elf-g++.exe
+COLLECT_LTO_WRAPPER=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe
+Target: xtensa-lx106-elf
+Configured with: /builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_w64-mingw32 --target=xtensa-lx106-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf --with-headers=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf/include --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG esp-2020r3-49-gd5524c1' --disable-__cxa_atexit --enable-cxx-flags=-ffunction-sections --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-nls --enable-multiarch --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-libstdcxx-time=yes
+Thread model: posix
+gcc version 8.4.0 (crosstool-NG esp-2020r3-49-gd5524c1) 
+COMPILER_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/
+LIBRARY_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/;c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_fb0f3'
+ c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe -plugin c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll -plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccSIdzfS.res -o cmTC_fb0f3 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib --gc-sections CMakeFiles/cmTC_fb0f3.dir/CMakeCXXCompilerABI.cpp.obj
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_fb0f3'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(xtensa-lx106-elf-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_fb0f3"]
+  ignore line: [[1/2] Building CXX object CMakeFiles/cmTC_fb0f3.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [[2/2] Linking CXX executable cmTC_fb0f3]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\36348\.espressif\tools\xtensa-lx106-elf\esp-2020r3-49-gd5524c1-8.4.0\xtensa-lx106-elf\bin\xtensa-lx106-elf-g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe]
+  ignore line: [Target: xtensa-lx106-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_w64-mingw32 --target=xtensa-lx106-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf --with-headers=/builds/idf/crosstool-NG/builds/xtensa-lx106-elf/xtensa-lx106-elf/include --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG esp-2020r3-49-gd5524c1' --disable-__cxa_atexit --enable-cxx-flags=-ffunction-sections --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/HOST-i686-w64-mingw32/xtensa-lx106-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-nls --enable-multiarch --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-libstdcxx-time=yes]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.4.0 (crosstool-NG esp-2020r3-49-gd5524c1) ]
+  ignore line: [COMPILER_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-nostdlib' '-v' '-o' 'cmTC_fb0f3']
+  link line: [ c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe -plugin c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll -plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccSIdzfS.res -o cmTC_fb0f3 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0 -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc -Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib --gc-sections CMakeFiles/cmTC_fb0f3.dir/CMakeCXXCompilerABI.cpp.obj]
+    arg [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../libexec/gcc/xtensa-lx106-elf/8.4.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\36348\AppData\Local\Temp\ccSIdzfS.res] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_fb0f3] ==> ignore
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0]
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc]
+    arg [-Lc:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib] ==> dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib]
+    arg [--gc-sections] ==> ignore
+    arg [CMakeFiles/cmTC_fb0f3.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/8.4.0]
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc]
+  collapse library dir [c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib] ==> [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/xtensa-lx106-elf/lib]
+  implicit libs: []
+  implicit dirs: [C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/8.4.0;C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/lib/gcc;C:/Users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/xtensa-lx106-elf/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++2a] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_3599b"
+[1/2] Building CXX object CMakeFiles/cmTC_3599b.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_3599b
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting CXX [-std=c++17] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_aea2e"
+[1/2] Building CXX object CMakeFiles/cmTC_aea2e.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_aea2e
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_fb627"
+[1/2] Building CXX object CMakeFiles/cmTC_fb627.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_fb627
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_fbec1"
+[1/2] Building CXX object CMakeFiles/cmTC_fbec1.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_fbec1
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: D:/36348/CLionProjects/ESP8266/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/36348/.espressif/tools/ninja/1.9.0/ninja.exe" "cmTC_faccf"
+[1/2] Building CXX object CMakeFiles/cmTC_faccf.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_faccf
+c:/users/36348/.espressif/tools/xtensa-lx106-elf/esp-2020r3-49-gd5524c1-8.4.0/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/bin/ld.exe: warning: cannot find entry symbol _start; not setting start address
+
+

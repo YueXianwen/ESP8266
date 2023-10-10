@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/bootloader/subproject",
+    "build_dir":          "D:/36348/CLionProjects/ESP8266/Hello/build/bootloader",
+    "config_file":        "D:/36348/CLionProjects/ESP8266/Hello/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "GIT-NOTFOUND",
+    "phy_data_partition": "",
+    "monitor_baud" : "74880",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esp8266/Kconfig;D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esp_common/Kconfig;D:/36348/ESP8266/ESP8266_RTOS_SDK/components/log/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/bootloader/Kconfig.projbuild;D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esptool_py/Kconfig.projbuild;D:/36348/ESP8266/ESP8266_RTOS_SDK/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "esp8266", "esp_common", "esptool_py", "log", "main", "partition_table", "spi_flash", "" ],
+    "build_component_paths" : [ "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/bootloader", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/bootloader_support", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esp8266", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esp_common", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/esptool_py", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/log", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/bootloader/subproject/main", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/partition_table", "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/spi_flash", "" ]
+}

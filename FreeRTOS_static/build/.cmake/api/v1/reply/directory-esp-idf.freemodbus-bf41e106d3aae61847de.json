@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/freemodbus",
+		"source" : "D:/36348/ESP8266/ESP8266_RTOS_SDK/components/freemodbus"
+	}
+}
